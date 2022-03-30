@@ -1,6 +1,6 @@
 ## CodeGram
 
-https://github.com/blascokoa/CodeGram.git
+https://codegramy.herokuapp.com/
 
 ### Description
 
